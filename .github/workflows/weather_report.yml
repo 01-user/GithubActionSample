@@ -32,7 +32,7 @@ jobs:
       run: |
         python weather_report.py
       env:
-        APP_ID: ${{ secrets.APP_ID }}
-        APP_SECRET: ${{ secrets.APP_SECRET }}
-        OPEN_ID: ${{ secrets.OPEN_ID }}
-        TEMPLATE_ID: ${{ secrets.TEMPLATE_ID }}
+        APP_ID: ${{ wx858c79f23f9406a3}}
+        APP_SECRET: ${{31973ae2b931cfe499a9c182d4b93dd6 }}
+        OPEN_ID: ${{ o05It6vYgaE32prADwzx223frTK4 }}
+        TEMPLATE_ID: ${{ 	lk8WAHXmzpmMaT8CoYNYYL9uSM1cmezVV2OuB8GMapA }}
